@@ -6,6 +6,7 @@
 A developer-first guide to harnessing the full power of PostgreSQL. Stop treating Postgres like a dumb storage bucket and start using it as the powerful data platform it was designed to be.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -23,4 +24,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
